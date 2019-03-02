@@ -1,0 +1,3 @@
+var="Bonjour"
+alert(Bonjour)
+
